@@ -1,13 +1,7 @@
 body {
-<<<<<<< HEAD
-    color: white;
-    background-color: black;
-    font-family: 'Courier New', Courier, monospace;
-=======
   color: white;
-  background-color: #333;
+  background-color: black;
+  font-family: 'Sacramento', cursive;
   font-size: 150%;
-  font-family: 'Satisfy', cursive;
   margin: 5em 25%;
->>>>>>> 5233da611cb0b8473cba402cc0d93e449b028c62
   }
